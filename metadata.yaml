@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '31879'
     url: http://www.gutenberg.org/2009/agents/31879
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26254#The-Heart-of-the-Rose
 gutenberg_issued: '2008-08-10'
 gutenberg_type: Text
 identifiers:
