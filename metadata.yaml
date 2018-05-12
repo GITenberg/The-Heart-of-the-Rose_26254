@@ -1,0 +1,26 @@
+_repo: The-Heart-of-the-Rose_26254
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McKee, Mabel Anne
+    birthdate: 1886
+    gutenberg_agent_id: '31879'
+    url: http://www.gutenberg.org/2009/agents/31879
+description: ''
+gutenberg_issued: '2008-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26254'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Courtship'
+- !lcc 'BJ'
+- !lcsh 'Youth -- Conduct of life'
+title: The Heart of the Rose
+url: http://www.gutenberg.org/ebooks/26254
